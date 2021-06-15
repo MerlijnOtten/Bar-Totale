@@ -1,0 +1,81 @@
+
+
+html,
+body {
+    height: 100%;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+
+
+ ----------------------------------------
+     
+
+
+----------------------------------------
+
+
+/* =========================================
+global
+============================================ */
+
+
+
+
+{
+    box-sizing: border-box;
+}
+
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+}
+
+.bg-dark{
+  background-color: #000000 !important;
+}
+
+.carousel-photo1{
+  background: url("img/mocktail.jpg") no-repeat center center;
+  background-size: cover;
+}
+.carousel-photo2{
+  background: url("img/maken.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.carousel-photo3{
+  background: url("img/onrocks.jpg") no-repeat center center;
+  background-size: cover;
+}
+.row{
+  margin-top: 6em;
+}
+
+.lead{
+  line-height: 1.4em;
+  margin-bottom: 5em;
+}
+
+.foto1 {
+  margin-top: 5em;
+  margin-bottom: 5em;
+  width: 100%;
+  height: auto;
+}
+
+
+.foto2{
+  width: 20%;
+  height: auto;
+  padding-right: 5em;
+}
+
+.foto3{
+  width: 85%;
+}
+
+
+
+
